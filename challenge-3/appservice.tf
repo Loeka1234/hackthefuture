@@ -11,7 +11,7 @@ resource "azurerm_resource_group" "group" {
 
 
 locals {
-  team_id = "YOURTEAMID"
+  team_id = "58335"
 }
 
 ## An App Service Plan mainly defines the hardware that is used to host your App Service.
